@@ -1,0 +1,2 @@
+Calci — a small web calculator project built with HTML, CSS and JavaScript.
+Purpose: provide a simple UI for basic arithmetic (addition, subtraction, multiplication, division), handle decimal input and simple keyboard support, and demonstrate DOM manipulation and event handling.
